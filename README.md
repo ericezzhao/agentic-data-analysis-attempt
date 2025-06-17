@@ -11,7 +11,6 @@ An AI data analysis system built with the Model Context Protocol (MCP), ChromaDB
 - **Model**: OpenAI GPT-4
 - **Agno Framework**: Agentic agent development
 - **MCP Protocol**: Model Context Protocol implementation
-- **MCP Protocol**: Model Context Protocol implementation
 
 ## 🚀 Quick Start
 
@@ -94,29 +93,6 @@ agentic_ai_analysis/
 ### 3. **Create Custom Visualizations**
 - Interactive chart builder with multiple themes
 - 7+ chart types: histograms, scatter plots, heatmaps, etc.
-
-### 4. **Export Results**
-- Variety of formats
-
-## 🔧 Technical Features
-
-### Multi-Modal Query Processing
-- **Statistical Queries**: Direct calculations for aggregations, statistics
-- **Semantic Search**: Vector-based similarity search using ChromaDB
-- **SQL Analysis**: Complex data filtering and transformations
-- **AI Reasoning**: GPT-4 powered insights and explanations
-
-### Export Capabilities
-- **CSV Export**: Clean data extraction with proper formatting
-- **Excel Export**: Multi-sheet workbooks with analysis summaries
-- **JSON Export**: Structured data with metadata and timestamps
-- **ZIP Packages**: Complete analysis packages for sharing
-- **Chart Export**: High-resolution PNG downloads
-
-### Memory System
-- **Conversation History**: Persistent across sessions
-- **Context Retention**: Remembers previous queries and datasets
-- **Smart Suggestions**: Based on conversation and data characteristics
 
 ## 📊 Sample Queries
 
