@@ -1,0 +1,115 @@
+# Agentic AI Data Analysis Project Dependencies
+
+# Core MCP Framework - Official Python SDK
+mcp[cli]==1.9.4
+
+# Agno Agent Framework
+agno==1.6.2
+agno[mcp]==1.6.2
+agno[chromadb]==1.6.2
+agno[openai]==1.6.2
+
+# ChromaDB for Vector Database
+chromadb==0.5.23
+
+# Core AI/ML Libraries
+openai==1.58.1
+tiktoken==0.8.0
+
+# Data Processing
+pandas==2.2.3
+numpy==1.26.4
+openpyxl==3.1.5
+xlrd==2.0.1
+
+# Visualization
+matplotlib==3.10.0
+seaborn==0.13.2
+plotly==5.24.1
+
+# Streamlit for UI
+streamlit==1.41.1
+streamlit-aggrid==1.0.5
+
+# Web Framework Support (for MCP HTTP transport)
+fastapi==0.115.6
+uvicorn==0.32.1
+httpx==0.28.1
+requests==2.32.3
+
+# Embeddings and Text Processing
+sentence-transformers==3.3.1
+transformers==4.48.0
+torch==2.5.1
+
+# File Processing
+pypdf==5.1.0
+python-docx==1.1.2
+python-multipart==0.0.20
+
+# Database and Storage
+sqlite3
+sqlalchemy==2.0.36
+python-dotenv==1.0.1
+
+# Async Support
+asyncio
+aiohttp==3.11.11
+aiofiles==24.1.0
+
+# Data Validation and Serialization
+pydantic==2.10.3
+pydantic-settings==2.7.0
+
+# Logging and Monitoring
+loguru==0.7.3
+rich==13.9.4
+
+# Testing Framework
+pytest==8.3.4
+pytest-asyncio==0.25.0
+pytest-mock==3.14.0
+
+# Development Tools
+black==24.10.0
+isort==5.13.2
+flake8==7.1.1
+mypy==1.13.0
+
+# Utility Libraries
+tqdm==4.67.1
+click==8.1.8
+typer==0.15.1
+pathlib2==2.3.7
+
+# Security
+cryptography==44.0.0
+
+# Environment Management
+python-decouple==3.8
+
+# JSON Schema Validation
+jsonschema==4.23.0
+
+# Date/Time Utilities
+python-dateutil==2.9.0
+
+# Memory Management
+psutil==6.1.0
+
+# Optional: Additional AI Model Providers
+anthropic==0.40.0
+cohere==5.13.4
+
+# Optional: Additional Vector Database Support
+qdrant-client==1.12.1
+weaviate-client==4.9.6
+
+# Optional: Additional Tools
+duckduckgo-search==6.3.11
+yfinance==0.2.49
+
+# Optional: Performance Monitoring
+opentelemetry-api==1.29.0
+opentelemetry-sdk==1.29.0
+opentelemetry-instrumentation==0.50b0 

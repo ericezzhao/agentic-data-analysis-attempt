@@ -1,0 +1,16 @@
+date,product,category,sales_amount,units_sold,region,sales_rep
+2024-01-15,Laptop,Electronics,1299.99,1,North,Alice Johnson
+2024-01-16,Mouse,Electronics,29.99,5,South,Bob Smith
+2024-01-17,Keyboard,Electronics,89.99,3,East,Carol Davis
+2024-01-18,Monitor,Electronics,299.99,2,West,David Wilson
+2024-01-19,Tablet,Electronics,499.99,1,North,Alice Johnson
+2024-01-20,Phone,Electronics,799.99,2,South,Bob Smith
+2024-01-21,Headphones,Electronics,149.99,4,East,Carol Davis
+2024-01-22,Webcam,Electronics,79.99,3,West,David Wilson
+2024-01-23,Printer,Electronics,199.99,1,North,Alice Johnson
+2024-01-24,Scanner,Electronics,129.99,2,South,Bob Smith
+2024-01-25,Router,Electronics,109.99,1,East,Carol Davis
+2024-01-26,Switch,Electronics,59.99,2,West,David Wilson
+2024-01-27,Cable,Electronics,19.99,10,North,Alice Johnson
+2024-01-28,Adapter,Electronics,24.99,8,South,Bob Smith
+2024-01-29,Battery,Electronics,39.99,6,East,Carol Davis 
